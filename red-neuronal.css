@@ -1,0 +1,333 @@
+.red-neuronal-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.red-neuronal-container1 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #000000;
+}
+.red-neuronal-text {
+  top: 35px;
+  color: rgb(255, 255, 255);
+  right: 70px;
+  position: absolute;
+}
+.red-neuronal-hero {
+  width: 100%;
+  height: 902px;
+  display: flex;
+  padding: var(--dl-space-space-threeunits);
+  position: relative;
+  min-height: 80vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.red-neuronal-navlink {
+  top: -73px;
+  left: 27px;
+  color: var(--dl-color-gray-white);
+  height: 51px;
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  border-color: #ffffff;
+  border-style: double;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: #626262;
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+.red-neuronal-navlink:hover {
+  transform: scale(1.02);
+}
+.red-neuronal-navlink1 {
+  top: -74px;
+  left: 194px;
+  color: var(--dl-color-gray-white);
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-white);
+  border-style: double;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-500);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+.red-neuronal-navlink1:hover {
+  transform: scale(1.02);
+}
+.red-neuronal-navlink2 {
+  top: -74px;
+  left: 348px;
+  color: var(--dl-color-gray-white);
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-white);
+  border-style: double;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-500);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+.red-neuronal-navlink2:hover {
+  transform: scale(1.02);
+}
+.red-neuronal-navlink3 {
+  top: -73px;
+  left: 497px;
+  color: var(--dl-color-gray-white);
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-white);
+  border-style: double;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-500);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+.red-neuronal-navlink3:hover {
+  transform: scale(1.02);
+}
+.red-neuronal-navlink4 {
+  top: -73px;
+  left: 688px;
+  color: var(--dl-color-gray-white);
+  position: absolute;
+  align-self: stretch;
+  transition: 0.3s;
+  padding-top: var(--dl-space-space-unit);
+  border-color: var(--dl-color-gray-white);
+  border-style: double;
+  padding-left: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-twounits);
+  padding-bottom: var(--dl-space-space-unit);
+  text-decoration: none;
+  background-color: var(--dl-color-gray-500);
+  border-top-width: 2px;
+  border-left-width: 2px;
+  border-right-width: 2px;
+  border-bottom-width: 2px;
+}
+.red-neuronal-navlink4:hover {
+  transform: scale(1.02);
+}
+.red-neuronal-container2 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.red-neuronal-text01 {
+  font-size: 3rem;
+}
+.red-neuronal-text02 {
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+}
+.red-neuronal-text06 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: #ffffff;
+}
+.red-neuronal-image {
+  width: 558px;
+  height: 245px;
+  object-fit: cover;
+}
+.red-neuronal-text14 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: #ffffff;
+}
+.red-neuronal-image1 {
+  width: 627px;
+  height: 355px;
+  object-fit: cover;
+}
+.red-neuronal-text24 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: #fffefe;
+}
+.red-neuronal-image2 {
+  width: 709px;
+  height: 316px;
+  object-fit: cover;
+}
+.red-neuronal-text40 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: rgb(255, 254, 254);
+}
+.red-neuronal-text45 {
+  background-color: rgb(255, 254, 254);
+}
+.red-neuronal-image3 {
+  width: 841px;
+  height: 667px;
+  object-fit: cover;
+}
+.red-neuronal-text47 {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  padding-left: var(--dl-space-space-threeunits);
+  margin-bottom: var(--dl-space-space-twounits);
+  padding-right: var(--dl-space-space-threeunits);
+  background-color: rgb(255, 254, 254);
+}
+.red-neuronal-text52 {
+  background-color: rgb(255, 254, 254);
+}
+.red-neuronal-text55 {
+  background-color: rgb(255, 254, 254);
+}
+@media(max-width: 991px) {
+  .red-neuronal-hero {
+    flex-direction: column;
+  }
+  .red-neuronal-container2 {
+    align-items: center;
+    margin-right: 0px;
+    margin-bottom: var(--dl-space-space-twounits);
+  }
+  .red-neuronal-text01 {
+    text-align: center;
+  }
+  .red-neuronal-text02 {
+    text-align: center;
+  }
+  .red-neuronal-text06 {
+    text-align: center;
+  }
+  .red-neuronal-text14 {
+    text-align: center;
+  }
+  .red-neuronal-text24 {
+    text-align: center;
+  }
+  .red-neuronal-text40 {
+    text-align: center;
+  }
+  .red-neuronal-text47 {
+    text-align: center;
+  }
+}
+@media(max-width: 767px) {
+  .red-neuronal-hero {
+    padding-left: var(--dl-space-space-twounits);
+    padding-right: var(--dl-space-space-twounits);
+  }
+  .red-neuronal-text02 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .red-neuronal-text06 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .red-neuronal-text14 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .red-neuronal-text24 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .red-neuronal-text40 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+  .red-neuronal-text47 {
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+  }
+}
+@media(max-width: 479px) {
+  .red-neuronal-hero {
+    padding-top: var(--dl-space-space-twounits);
+    padding-left: var(--dl-space-space-unit);
+    padding-right: var(--dl-space-space-unit);
+    padding-bottom: var(--dl-space-space-twounits);
+  }
+  .red-neuronal-navlink {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .red-neuronal-navlink1 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .red-neuronal-navlink2 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .red-neuronal-navlink3 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .red-neuronal-navlink4 {
+    margin-top: var(--dl-space-space-unit);
+    margin-left: 0px;
+  }
+  .red-neuronal-container2 {
+    margin-bottom: var(--dl-space-space-unit);
+  }
+}
